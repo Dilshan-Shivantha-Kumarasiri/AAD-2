@@ -1,9 +1,6 @@
 package org.example.structural.facade_design_pattern;
 
-/**
- * @TimeStamp 2023-11-08 18:02
- * @ProjectDetails design_patterns
- */
+
 public class ShapeMaker {
     private Shape circle;
     private Shape square;

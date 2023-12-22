@@ -1,9 +1,6 @@
 package org.example.structural.decorator_design_pattern;
 
-/**
- * @TimeStamp 2023-11-08 17:53
- * @ProjectDetails design_patterns
- */
+
 public class DecoratorPatternDemo {
     public static void main(String[] args) {
 

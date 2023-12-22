@@ -1,9 +1,6 @@
 package org.example.structural.facade_design_pattern;
 
-/**
- * @TimeStamp 2023-11-08 15:36
- * @ProjectDetails design_patterns
- */
+
 public class Rectangle implements Shape {
     @Override
     public void draw() {

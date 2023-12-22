@@ -1,9 +1,6 @@
 package org.example.behavioural.observer_design_pattern;
 
-/**
- * @TimeStamp 2023-11-08 21:27
- * @ProjectDetails design_patterns
- */
+
 public class ObserverPatternDemo {
     public static void main(String[] args) {
         Subject subject = new Subject();

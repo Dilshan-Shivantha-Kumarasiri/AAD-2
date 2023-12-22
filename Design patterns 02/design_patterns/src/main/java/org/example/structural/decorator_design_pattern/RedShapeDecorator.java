@@ -1,9 +1,6 @@
 package org.example.structural.decorator_design_pattern;
 
-/**
- * @TimeStamp 2023-11-08 17:50
- * @ProjectDetails design_patterns
- */
+
 public class RedShapeDecorator extends ShapeDecorator{
     public RedShapeDecorator(Shape decoratorShape) {
         //calling most supper class constructor
